@@ -12,7 +12,7 @@ The led lights will start to light up in a sequence, player is required to catch
 
 Upon catching the correct led, a new game will begin. 
 
-Player will get 5 chances to retry catching the correct led.
+Player will get 10 chances to retry catching the correct led.
 
 ### Resources
 
